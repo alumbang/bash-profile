@@ -1,0 +1,9 @@
+[alias]
+  st = status
+  a  = add
+  b  = branch
+  br = branch -r
+  cm = commit
+  ca = commit -a
+  co = checkout
+  pr = pull --rebase
